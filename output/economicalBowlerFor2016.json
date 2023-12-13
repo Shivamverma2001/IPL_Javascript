@@ -1,0 +1,644 @@
+[
+  [
+    "N Rana",
+    {
+      "economy": 3.6
+    }
+  ],
+  [
+    "MR Marsh",
+    {
+      "economy": 5.09433962264151
+    }
+  ],
+  [
+    "Sachin Baby",
+    {
+      "economy": 5.333333333333333
+    }
+  ],
+  [
+    "YK Pathan",
+    {
+      "economy": 5.6571428571428575
+    }
+  ],
+  [
+    "JW Hastings",
+    {
+      "economy": 5.6923076923076925
+    }
+  ],
+  [
+    "S Gopal",
+    {
+      "economy": 6
+    }
+  ],
+  [
+    "CH Gayle",
+    {
+      "economy": 6.406779661016949
+    }
+  ],
+  [
+    "A Zampa",
+    {
+      "economy": 6.772277227722772
+    }
+  ],
+  [
+    "Mustafizur Rahman",
+    {
+      "economy": 6.887671232876713
+    }
+  ],
+  [
+    "BCJ Cutting",
+    {
+      "economy": 6.909090909090909
+    }
+  ],
+  [
+    "CH Morris",
+    {
+      "economy": 7.003802281368821
+    }
+  ],
+  [
+    "SP Narine",
+    {
+      "economy": 7.129411764705883
+    }
+  ],
+  [
+    "R Bhatia",
+    {
+      "economy": 7.211822660098522
+    }
+  ],
+  [
+    "R Vinay Kumar",
+    {
+      "economy": 7.245283018867925
+    }
+  ],
+  [
+    "DJ Hooda",
+    {
+      "economy": 7.246753246753247
+    }
+  ],
+  [
+    "R Ashwin",
+    {
+      "economy": 7.277566539923955
+    }
+  ],
+  [
+    "S Aravind",
+    {
+      "economy": 7.310344827586207
+    }
+  ],
+  [
+    "Sandeep Sharma",
+    {
+      "economy": 7.344481605351171
+    }
+  ],
+  [
+    "Anureet Singh",
+    {
+      "economy": 7.371428571428571
+    }
+  ],
+  [
+    "DS Kulkarni",
+    {
+      "economy": 7.3720136518771335
+    }
+  ],
+  [
+    "B Kumar",
+    {
+      "economy": 7.409090909090909
+    }
+  ],
+  [
+    "J Yadav",
+    {
+      "economy": 7.425742574257426
+    }
+  ],
+  [
+    "Gurkeerat Singh",
+    {
+      "economy": 7.5
+    }
+  ],
+  [
+    "A Mishra",
+    {
+      "economy": 7.505454545454546
+    }
+  ],
+  [
+    "KH Pandya",
+    {
+      "economy": 7.580645161290323
+    }
+  ],
+  [
+    "AB Dinda",
+    {
+      "economy": 7.615384615384615
+    }
+  ],
+  [
+    "C Munro",
+    {
+      "economy": 7.636363636363637
+    }
+  ],
+  [
+    "TG Southee",
+    {
+      "economy": 7.657587548638133
+    }
+  ],
+  [
+    "IK Pathan",
+    {
+      "economy": 7.659574468085107
+    }
+  ],
+  [
+    "NM Coulter-Nile",
+    {
+      "economy": 7.685393258426966
+    }
+  ],
+  [
+    "Z Khan",
+    {
+      "economy": 7.694656488549619
+    }
+  ],
+  [
+    "A Nehra",
+    {
+      "economy": 7.703225806451613
+    }
+  ],
+  [
+    "PP Chawla",
+    {
+      "economy": 7.734597156398104
+    }
+  ],
+  [
+    "Ankit Sharma",
+    {
+      "economy": 7.753846153846154
+    }
+  ],
+  [
+    "RA Jadeja",
+    {
+      "economy": 7.775
+    }
+  ],
+  [
+    "P Kumar",
+    {
+      "economy": 7.792207792207792
+    }
+  ],
+  [
+    "JJ Bumrah",
+    {
+      "economy": 7.832797427652733
+    }
+  ],
+  [
+    "Shakib Al Hasan",
+    {
+      "economy": 7.848648648648648
+    }
+  ],
+  [
+    "AD Russell",
+    {
+      "economy": 7.89908256880734
+    }
+  ],
+  [
+    "STR Binny",
+    {
+      "economy": 7.900990099009901
+    }
+  ],
+  [
+    "JP Duminy",
+    {
+      "economy": 7.902439024390244
+    }
+  ],
+  [
+    "SM Boland",
+    {
+      "economy": 7.902439024390244
+    }
+  ],
+  [
+    "MC Henriques",
+    {
+      "economy": 7.967845659163987
+    }
+  ],
+  [
+    "Harbhajan Singh",
+    {
+      "economy": 8.006825938566553
+    }
+  ],
+  [
+    "JO Holder",
+    {
+      "economy": 8.025974025974026
+    }
+  ],
+  [
+    "R Dhawan",
+    {
+      "economy": 8.048780487804878
+    }
+  ],
+  [
+    "MJ McClenaghan",
+    {
+      "economy": 8.12539184952978
+    }
+  ],
+  [
+    "AR Patel",
+    {
+      "economy": 8.13986013986014
+    }
+  ],
+  [
+    "YS Chahal",
+    {
+      "economy": 8.16326530612245
+    }
+  ],
+  [
+    "CR Brathwaite",
+    {
+      "economy": 8.217391304347826
+    }
+  ],
+  [
+    "Yuvraj Singh",
+    {
+      "economy": 8.27027027027027
+    }
+  ],
+  [
+    "BB Sran",
+    {
+      "economy": 8.323232323232324
+    }
+  ],
+  [
+    "MM Sharma",
+    {
+      "economy": 8.337931034482759
+    }
+  ],
+  [
+    "SK Raina",
+    {
+      "economy": 8.338983050847459
+    }
+  ],
+  [
+    "M Morkel",
+    {
+      "economy": 8.349056603773585
+    }
+  ],
+  [
+    "P Sahu",
+    {
+      "economy": 8.365384615384615
+    }
+  ],
+  [
+    "M Vijay",
+    {
+      "economy": 8.4
+    }
+  ],
+  [
+    "KS Williamson",
+    {
+      "economy": 8.4
+    }
+  ],
+  [
+    "S Kaushik",
+    {
+      "economy": 8.408759124087592
+    }
+  ],
+  [
+    "Kuldeep Yadav",
+    {
+      "economy": 8.450704225352112
+    }
+  ],
+  [
+    "MP Stoinis",
+    {
+      "economy": 8.452554744525548
+    }
+  ],
+  [
+    "M Ashwin",
+    {
+      "economy": 8.470588235294118
+    }
+  ],
+  [
+    "DL Chahar",
+    {
+      "economy": 8.482758620689655
+    }
+  ],
+  [
+    "S Nadeem",
+    {
+      "economy": 8.49438202247191
+    }
+  ],
+  [
+    "DR Smith",
+    {
+      "economy": 8.523364485981308
+    }
+  ],
+  [
+    "SR Watson",
+    {
+      "economy": 8.57396449704142
+    }
+  ],
+  [
+    "Iqbal Abdulla",
+    {
+      "economy": 8.577181208053691
+    }
+  ],
+  [
+    "Imran Tahir",
+    {
+      "economy": 8.652631578947368
+    }
+  ],
+  [
+    "GJ Maxwell",
+    {
+      "economy": 8.666666666666666
+    }
+  ],
+  [
+    "Bipul Sharma",
+    {
+      "economy": 8.74698795180723
+    }
+  ],
+  [
+    "DJ Bravo",
+    {
+      "economy": 8.829850746268656
+    }
+  ],
+  [
+    "AS Rajpoot",
+    {
+      "economy": 8.953846153846154
+    }
+  ],
+  [
+    "GB Hogg",
+    {
+      "economy": 8.968421052631578
+    }
+  ],
+  [
+    "SB Jakati",
+    {
+      "economy": 8.974789915966387
+    }
+  ],
+  [
+    "PV Tambe",
+    {
+      "economy": 9.031578947368422
+    }
+  ],
+  [
+    "UT Yadav",
+    {
+      "economy": 9.058064516129033
+    }
+  ],
+  [
+    "CJ Jordan",
+    {
+      "economy": 9.125748502994012
+    }
+  ],
+  [
+    "T Shamsi",
+    {
+      "economy": 9.221052631578948
+    }
+  ],
+  [
+    "HH Pandya",
+    {
+      "economy": 9.272727272727273
+    }
+  ],
+  [
+    "DW Steyn",
+    {
+      "economy": 9.272727272727273
+    }
+  ],
+  [
+    "RP Singh",
+    {
+      "economy": 9.295774647887324
+    }
+  ],
+  [
+    "Parvez Rasool",
+    {
+      "economy": 9.325301204819278
+    }
+  ],
+  [
+    "KC Cariappa",
+    {
+      "economy": 9.445544554455445
+    }
+  ],
+  [
+    "AF Milne",
+    {
+      "economy": 9.5
+    }
+  ],
+  [
+    "TA Boult",
+    {
+      "economy": 9.5
+    }
+  ],
+  [
+    "P Negi",
+    {
+      "economy": 9.50943396226415
+    }
+  ],
+  [
+    "VR Aaron",
+    {
+      "economy": 9.617021276595745
+    }
+  ],
+  [
+    "JP Faulkner",
+    {
+      "economy": 9.683168316831683
+    }
+  ],
+  [
+    "NLTC Perera",
+    {
+      "economy": 9.757575757575758
+    }
+  ],
+  [
+    "Mohammed Shami",
+    {
+      "economy": 9.76
+    }
+  ],
+  [
+    "MG Johnson",
+    {
+      "economy": 9.784615384615385
+    }
+  ],
+  [
+    "KW Richardson",
+    {
+      "economy": 9.903614457831326
+    }
+  ],
+  [
+    "R Sathish",
+    {
+      "economy": 9.942857142857143
+    }
+  ],
+  [
+    "I Sharma",
+    {
+      "economy": 9.97752808988764
+    }
+  ],
+  [
+    "Swapnil Singh",
+    {
+      "economy": 10.235294117647058
+    }
+  ],
+  [
+    "KV Sharma",
+    {
+      "economy": 10.515463917525773
+    }
+  ],
+  [
+    "HV Patel",
+    {
+      "economy": 10.626506024096386
+    }
+  ],
+  [
+    "A Ashish Reddy",
+    {
+      "economy": 10.636363636363637
+    }
+  ],
+  [
+    "KJ Abbott",
+    {
+      "economy": 11.178947368421053
+    }
+  ],
+  [
+    "S Ladda",
+    {
+      "economy": 11.454545454545455
+    }
+  ],
+  [
+    "D Wiese",
+    {
+      "economy": 12
+    }
+  ],
+  [
+    "PJ Sangwan",
+    {
+      "economy": 12.782608695652174
+    }
+  ],
+  [
+    "JA Morkel",
+    {
+      "economy": 13.655172413793103
+    }
+  ],
+  [
+    "KA Pollard",
+    {
+      "economy": 13.714285714285714
+    }
+  ],
+  [
+    "V Kohli",
+    {
+      "economy": 14.4
+    }
+  ],
+  [
+    "J Suchith",
+    {
+      "economy": 15
+    }
+  ],
+  [
+    "JD Unadkat",
+    {
+      "economy": 17.294117647058822
+    }
+  ]
+]
